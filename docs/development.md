@@ -1,5 +1,7 @@
 # 开发指南
 
+> 想深入了解 OpenLink 各模块的实现原理？请阅读 [实现原理分析](./implementation-analysis.md)。
+
 ## 环境要求
 
 - Go 1.23+
